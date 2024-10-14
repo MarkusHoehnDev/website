@@ -40,14 +40,17 @@ Here are some projects I have engaged in, including some of my work at Hackathon
 
 ### BeatFlow (Hack K-State 2023)
 BeatFlow elevates your running experience by syncing Spotify music with your cadence. Using your phone's accelerometer, it adjusts the track playing by energy to match your cadence.
+
 <a href="https://devpost.com/software/beatflow" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
 
 ### Deaflingo (Hack KU 2024)
 Imagine if Duolingo met sign language. Learning sign language shouldn't just be a quick Google search. That's why we've developed a solution where your webcam can recognize your hands, enhancing your technique and making learning more intuitive than ever before.
+
 <a href="https://devpost.com/software/deaflingo" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
 
 ### fishtracker9000 (HackSMU VI)
 fishtracker9000 is a real-time fish monitoring dashboard that tracks fish movement patterns, regions of interest, water temperature, and clarity.
+
 <a href="https://devpost.com/software/fishtracker9000" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
 
 </div>
