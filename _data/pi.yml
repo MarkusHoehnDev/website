@@ -1,17 +1,14 @@
-- name: Dr. Richard Feynman
+- name: Markus Hoehn
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  email: markush@ksu.edu
+  github: https://github.com/MarkusHoehnDev/
+  resume: resume/resume.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(Fall 2022 - Present) Concurrent Enrollment, Kansas State University",
+      "(Expected 2025) High School Diploma, Manhattan High School",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(Fall 2022 - Present) Concurrent Enrollment, KSU", "(Exp. 2025) High School Diploma, MHS"]
